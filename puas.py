@@ -32,7 +32,7 @@ def mr_x():
     time.sleep(3)
     print ("\033[1;37m[\033[1;30m2\033[1;37m] \033[36m Join \033[1;37mDark Club \033[36m cuk :v")
     time.sleep(1)
-    os.system("xdg-open https://cararegistrasi.com/uT3SUrikap")
+    os.system("xdg-open https://cararegistrasi.com/e8pvPeM8PU4F")
     time.sleep(3)
     os.system("clear")
 # -------{ bang give alok bang :V }-------- #
@@ -136,7 +136,7 @@ def mr_dark_input():
                   time.sleep(30)
                   dark_point += 1
     elif subs_mr_dark == "4":
-         os.system("xdg-open https://chat.whatsapp.com/E2fub8yGYpnEKP3hAKRN5v")
+         os.system("xdg-open https://cararegistrasi.com/e8pvPeM8PU4F")
          print ("")
     else:
          time.sleep(2)
